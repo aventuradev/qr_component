@@ -30,6 +30,7 @@ body {
     padding: 1.8rem;
     text-align: center;
     width: 33.5rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 .card .qr_container{
     width: 30rem;
